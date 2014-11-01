@@ -1,10 +1,12 @@
 body {
   background-color:#515151;
+  margin-left:100px;
 }
 .litleImages{
   width: 133px;
   height: 100px;
-  float:left;
+  margin-left:40px;
+  /*float:left;*/
 }
 
 .video{
